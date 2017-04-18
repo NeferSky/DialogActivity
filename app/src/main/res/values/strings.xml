@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DialogActivity</string>
+    <string name="about_text">
+        Я снимаю дамп,\n
+        За окном winamp,\n
+        В winamp-е "Numb"\n
+        И на клаве Num.\n
+        Решать не нам,\n
+        Чья же здесь вина,\n
+        Что нельзя винду\n
+        Ставить на слона.
+    </string>
+    <string name="about_title">О программе...</string>
+    <string name="buttonText">Button</string>
+</resources>
